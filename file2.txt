@@ -1,3 +1,9 @@
+
 Master changes by other team members and master
 
 Master added line
+
+Master changes by bug
+
+New line added in bug
+
